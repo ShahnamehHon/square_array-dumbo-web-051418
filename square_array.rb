@@ -3,5 +3,5 @@ def square_array(array)
   array.each do |x|
     numbers << x**2
   end
-  return 
+  return numbers
 end
